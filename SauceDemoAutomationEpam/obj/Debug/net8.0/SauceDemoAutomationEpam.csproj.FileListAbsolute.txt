@@ -1,0 +1,17 @@
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/bin/Debug/net8.0/SauceDemoAutomationEpam.deps.json
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/bin/Debug/net8.0/SauceDemoAutomationEpam.runtimeconfig.json
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/bin/Debug/net8.0/SauceDemoAutomationEpam.dll
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/bin/Debug/net8.0/SauceDemoAutomationEpam.pdb
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.csproj.AssemblyReference.cache
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.AssemblyInfoInputs.cache
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.AssemblyInfo.cs
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.csproj.CoreCompileInputs.cache
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.dll
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/refint/SauceDemoAutomationEpam.dll
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.pdb
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/SauceDemoAutomationEpam.genruntimeconfig.cache
+/Users/solomia/RiderProjects/SauceDemoAutomationEpam.Core/SauceDemoAutomationEpam/obj/Debug/net8.0/ref/SauceDemoAutomationEpam.dll

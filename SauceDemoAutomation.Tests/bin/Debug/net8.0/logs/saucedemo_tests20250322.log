@@ -1,0 +1,86 @@
+2025-03-22 21:48:52.180 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:48:54.073 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:48:54.633 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:48:54.824 +02:00 [INF] Entered username: testuser
+2025-03-22 21:48:54.868 +02:00 [INF] Entered password
+2025-03-22 21:48:54.894 +02:00 [INF] Cleared username field
+2025-03-22 21:48:54.913 +02:00 [INF] Cleared password field
+2025-03-22 21:48:54.975 +02:00 [INF] Clicked login button
+2025-03-22 21:48:54.998 +02:00 [INF] Error message displayed: Epic sadface: Username and password do not match any user in this service
+2025-03-22 21:48:55.256 +02:00 [INF] WebDriver closed
+2025-03-22 21:48:56.620 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:50:58.750 +02:00 [INF] Created Firefox WebDriver instance
+2025-03-22 21:50:59.532 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:50:59.608 +02:00 [INF] Entered username: testuser
+2025-03-22 21:50:59.645 +02:00 [INF] Entered password
+2025-03-22 21:50:59.690 +02:00 [INF] Cleared username field
+2025-03-22 21:50:59.700 +02:00 [INF] Cleared password field
+2025-03-22 21:50:59.943 +02:00 [INF] Clicked login button
+2025-03-22 21:50:59.957 +02:00 [INF] Error message displayed: Epic sadface: Username is required
+2025-03-22 21:51:00.873 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:02.842 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:04.268 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:04.756 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:04.936 +02:00 [INF] Entered username: testuser
+2025-03-22 21:51:04.969 +02:00 [INF] Entered password
+2025-03-22 21:51:04.994 +02:00 [INF] Cleared password field
+2025-03-22 21:51:05.046 +02:00 [INF] Clicked login button
+2025-03-22 21:51:05.063 +02:00 [INF] Error message displayed: Epic sadface: Username and password do not match any user in this service
+2025-03-22 21:51:05.221 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:06.693 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:09.137 +02:00 [INF] Created Firefox WebDriver instance
+2025-03-22 21:51:10.249 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:10.322 +02:00 [INF] Entered username: testuser
+2025-03-22 21:51:10.332 +02:00 [INF] Entered password
+2025-03-22 21:51:10.342 +02:00 [INF] Cleared password field
+2025-03-22 21:51:10.564 +02:00 [INF] Clicked login button
+2025-03-22 21:51:10.583 +02:00 [INF] Error message displayed: Epic sadface: Password is required
+2025-03-22 21:51:11.448 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:12.791 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:15.117 +02:00 [INF] Created Firefox WebDriver instance
+2025-03-22 21:51:15.879 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:15.952 +02:00 [INF] Entered username: performance_glitch_user
+2025-03-22 21:51:15.969 +02:00 [INF] Entered password
+2025-03-22 21:51:21.224 +02:00 [INF] Clicked login button
+2025-03-22 21:51:21.237 +02:00 [INF] Dashboard title: Swag Labs
+2025-03-22 21:51:22.095 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:23.492 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:24.900 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:25.359 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:25.544 +02:00 [INF] Entered username: performance_glitch_user
+2025-03-22 21:51:25.577 +02:00 [INF] Entered password
+2025-03-22 21:51:30.654 +02:00 [INF] Clicked login button
+2025-03-22 21:51:30.672 +02:00 [INF] Dashboard title: Swag Labs
+2025-03-22 21:51:30.825 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:32.204 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:33.584 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:33.995 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:34.108 +02:00 [INF] Entered username: problem_user
+2025-03-22 21:51:34.144 +02:00 [INF] Entered password
+2025-03-22 21:51:34.199 +02:00 [INF] Clicked login button
+2025-03-22 21:51:34.218 +02:00 [INF] Dashboard title: Swag Labs
+2025-03-22 21:51:34.369 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:35.640 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:38.404 +02:00 [INF] Created Firefox WebDriver instance
+2025-03-22 21:51:39.145 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:39.222 +02:00 [INF] Entered username: standard_user
+2025-03-22 21:51:39.236 +02:00 [INF] Entered password
+2025-03-22 21:51:39.527 +02:00 [INF] Clicked login button
+2025-03-22 21:51:39.537 +02:00 [INF] Dashboard title: Swag Labs
+2025-03-22 21:51:40.408 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:41.763 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:43.182 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:43.621 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:43.733 +02:00 [INF] Entered username: standard_user
+2025-03-22 21:51:43.772 +02:00 [INF] Entered password
+2025-03-22 21:51:43.826 +02:00 [INF] Clicked login button
+2025-03-22 21:51:43.843 +02:00 [INF] Dashboard title: Swag Labs
+2025-03-22 21:51:43.992 +02:00 [INF] WebDriver closed
+2025-03-22 21:51:45.316 +02:00 [INF] Created Chrome WebDriver instance
+2025-03-22 21:51:47.583 +02:00 [INF] Created Firefox WebDriver instance
+2025-03-22 21:51:48.369 +02:00 [INF] Navigated to SauceDemo login page
+2025-03-22 21:51:48.435 +02:00 [INF] Entered username: problem_user
+2025-03-22 21:51:48.467 +02:00 [INF] Entered password
+2025-03-22 21:51:48.724 +02:00 [INF] Clicked login button
+2025-03-22 21:51:48.734 +02:00 [INF] Dashboard title: Swag Labs
+2025-03-22 21:51:49.580 +02:00 [INF] WebDriver closed
