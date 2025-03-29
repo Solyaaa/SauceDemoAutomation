@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SauceDemoAutomationEpam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4486a7534bc138b7d8e2cd73b11ed87c5920c50a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SauceDemoAutomationEpam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SauceDemoAutomationEpam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
