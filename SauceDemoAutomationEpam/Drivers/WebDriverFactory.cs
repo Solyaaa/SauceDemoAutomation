@@ -1,7 +1,10 @@
+
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using Serilog;
+using System;
+using SauceDemoAutomation.Tests.Logging;
 
 namespace SauceDemoAutomation.Drivers
 {
