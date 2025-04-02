@@ -1,0 +1,48 @@
+2025-04-02 14:56:06.809 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:56:08.305 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:56:08.812 +03:00 [INF] Navigated to SauceDemo login page
+2025-04-02 14:56:08.855 +03:00 [INF] Username field value: ''
+2025-04-02 14:56:08.860 +03:00 [INF] Password field value: ''
+2025-04-02 14:56:08.932 +03:00 [INF] Clicked login button with empty fields
+2025-04-02 14:56:08.952 +03:00 [INF] Actual error message: 'Epic sadface: Username is required'
+2025-04-02 14:56:08.963 +03:00 [INF] Test UC1 executed in 656 ms
+2025-04-02 14:56:10.055 +03:00 [INF] Browser closed
+2025-04-02 14:56:10.135 +03:00 [INF] WebDriver closed
+2025-04-02 14:56:11.579 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:56:59.886 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:57:01.382 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:57:01.785 +03:00 [INF] Navigated to SauceDemo login page
+2025-04-02 14:57:01.823 +03:00 [INF] Username field value: ''
+2025-04-02 14:57:01.827 +03:00 [INF] Password field value: ''
+2025-04-02 14:57:01.871 +03:00 [INF] Clicked login button with empty fields
+2025-04-02 14:57:01.888 +03:00 [INF] Actual error message: 'Epic sadface: Username is required'
+2025-04-02 14:57:01.894 +03:00 [INF] Test UC1 executed in 511 ms
+2025-04-02 14:57:02.976 +03:00 [INF] Browser closed
+2025-04-02 14:57:03.052 +03:00 [INF] WebDriver closed
+2025-04-02 14:57:04.431 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:57:48.930 +03:00 [INF] Created Firefox WebDriver instance
+2025-04-02 14:57:49.780 +03:00 [INF] Navigated to SauceDemo login page
+2025-04-02 14:57:49.805 +03:00 [INF] Username field value: ''
+2025-04-02 14:57:49.807 +03:00 [INF] Password field value: ''
+2025-04-02 14:57:50.051 +03:00 [INF] Clicked login button with empty fields
+2025-04-02 14:57:50.060 +03:00 [INF] Actual error message: 'Epic sadface: Username is required'
+2025-04-02 14:57:50.060 +03:00 [INF] Test UC1 executed in 1128 ms
+2025-04-02 14:57:51.860 +03:00 [INF] Browser closed
+2025-04-02 14:57:51.969 +03:00 [INF] WebDriver closed
+2025-04-02 14:57:53.771 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:57:55.132 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:57:55.544 +03:00 [INF] Navigated to SauceDemo login page
+2025-04-02 14:57:56.717 +03:00 [INF] Entered username: testuser
+2025-04-02 14:57:57.751 +03:00 [INF] Cleared password field
+2025-04-02 14:57:57.797 +03:00 [INF] Clicked login button
+2025-04-02 14:57:58.816 +03:00 [INF] Actual error message: Epic sadface: Password is required
+2025-04-02 14:57:58.816 +03:00 [INF] Test UC2 executed in 3683 ms using Chrome
+2025-04-02 14:58:01.978 +03:00 [INF] WebDriver closed
+2025-04-02 14:58:03.415 +03:00 [INF] Created Chrome WebDriver instance
+2025-04-02 14:58:06.416 +03:00 [INF] Created Firefox WebDriver instance
+2025-04-02 14:58:07.146 +03:00 [INF] Navigated to SauceDemo login page
+2025-04-02 14:58:08.221 +03:00 [INF] Entered username: testuser
+2025-04-02 14:58:09.231 +03:00 [INF] Cleared password field
+2025-04-02 14:58:09.465 +03:00 [INF] Clicked login button
+2025-04-02 14:58:10.480 +03:00 [INF] Actual error message: Epic sadface: Password is required
+2025-04-02 14:58:10.481 +03:00 [INF] Test UC2 executed in 4062 ms using Firefox
